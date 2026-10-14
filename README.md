@@ -1,3 +1,3 @@
 # cs211-Hello
-Alba Rysha
-Alma Rysha
+Alba Rysha ./arysh.md
+Alma Rysha ./arysh1.md
