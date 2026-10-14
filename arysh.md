@@ -1,7 +1,9 @@
-arysh
-Computer Science
-Ways to Reach the n'th Stair
-https://www.geeksforgeeks.org/dsa/count-ways-reach-nth-stair/
+- **NetID:** arysh
+- **Major:** Computer Science
+- **Question that I chose from the memoization exercise:** Ways to Reach the n'th Stair
+- **Link to the question article:** https://www.geeksforgeeks.org/dsa/count-ways-reach-nth-stair/
+- **My solution:**
+```
 int countWays(int n) {
    // Base cases
     if (n == 1 || n == 0) { 
@@ -34,3 +36,4 @@ int countWays(int n) {
     
     // NOTE: Should've instead create a helper function to do memoization
 }
+```
